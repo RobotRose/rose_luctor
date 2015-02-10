@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "luctor_base_class.hpp"
+#include "luctor_base_class/luctor_base_class.hpp"
 
 const std::string LuctorBaseClass::IDENTIFIER = std::string("luctor_base_class");
 

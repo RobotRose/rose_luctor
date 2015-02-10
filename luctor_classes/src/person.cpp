@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "person.hpp"
+#include "person/person.hpp"
 
 const std::string Person::IDENTIFIER = std::string("person");
 

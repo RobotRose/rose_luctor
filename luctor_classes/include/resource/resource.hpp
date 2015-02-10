@@ -13,7 +13,7 @@
 #ifndef RESOURCE_HPP
 #define RESOURCE_HPP
 
-#include "luctor_base_class.hpp"
+#include "luctor_base_class/luctor_base_class.hpp"
 
 class Resource : public LuctorBaseClass
 {

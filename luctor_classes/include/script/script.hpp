@@ -13,7 +13,7 @@
 #ifndef SCRIPT_HPP
 #define SCRIPT_HPP
 
-#include "luctor_base_class.hpp"
+#include "luctor_base_class/luctor_base_class.hpp"
 
 class Script : public LuctorBaseClass
 {

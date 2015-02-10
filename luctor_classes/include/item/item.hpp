@@ -13,8 +13,8 @@
 #ifndef ITEM_HPP
 #define ITEM_HPP
 
-#include "bounding_box.hpp"
-#include "luctor_base_class.hpp"
+#include "bounding_box/bounding_box.hpp"
+#include "luctor_base_class/luctor_base_class.hpp"
 
 class Item : public LuctorBaseClass
 {
