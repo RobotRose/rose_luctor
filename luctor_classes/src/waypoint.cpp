@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "waypoint.hpp"
+#include "waypoint/waypoint.hpp"
 
 const std::string Waypoint::IDENTIFIER = std::string("waypoint");
 

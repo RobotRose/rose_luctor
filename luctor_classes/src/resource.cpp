@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "resource.hpp"
+#include "resource/resource.hpp"
 
 const std::string Resource::IDENTIFIER = std::string("resource");
 

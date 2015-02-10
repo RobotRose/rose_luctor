@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "bounding_box.hpp"
+#include "bounding_box/bounding_box.hpp"
 
 BoundingBox::BoundingBox()
 	: is_set_ ( false )

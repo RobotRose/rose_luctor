@@ -17,7 +17,7 @@
 #include <stdio.h>
 
 #include "rose_common/common.hpp"
-#include "luctor_base_class.hpp"
+#include "luctor_base_class/luctor_base_class.hpp"
 
 using geometry_msgs::Point;
 using geometry_msgs::Pose;

@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "item.hpp"
+#include "item/item.hpp"
 
 const std::string Item::IDENTIFIER = std::string("item");
 

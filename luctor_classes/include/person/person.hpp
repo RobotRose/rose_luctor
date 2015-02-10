@@ -13,7 +13,7 @@
 #ifndef PERSON_HPP
 #define PERSON_HPP
 
-#include "luctor_base_class.hpp"
+#include "luctor_base_class/luctor_base_class.hpp"
 
 class Person : public LuctorBaseClass
 {

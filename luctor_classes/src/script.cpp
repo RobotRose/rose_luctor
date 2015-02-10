@@ -10,7 +10,7 @@
 *	description
 * 
 ***********************************************************************************/
-#include "script.hpp"
+#include "script/script.hpp"
 
 const std::string Script::IDENTIFIER = std::string("script");
 
